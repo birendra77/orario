@@ -19,7 +19,7 @@ So we used our newly acquired skills in GDSC classes to create an app to solve t
 So the Solution we have come up with is ORARIO!!
 It's an app that has your schedule, all course syllabuses, links to various clubs' instagram/facebook IDs, and Discord accounts, as well as some Fun Time Activities.
 
-<img width="559" alt="Screenshotorario" src="https://i.imgur.com/2yfsSNn.png">
+<img alt="Screenshotorario" src="https://i.imgur.com/2yfsSNn.png">
 
 #### Functionality & Concepts used 
 
@@ -42,9 +42,10 @@ The [App](https://drive.google.com/file/d/1FSxAF4KBHhZjsJQM77_DzdS3850UGqji/view
 
 
  - To make the Sign In page more complete and to link students' Outlook Email IDs.
+ - To enhance the functionality of the Menu Page and also add new features.
  - We'd like to put the app online and have it refresh its schedule with the individuals connected's outlook email addresses when they sign up. In the app, if any classes are cancelled, the app will instantly update.
  - Also, the syllabus will be expanded to cover students in all four years, as well as any adjustments made by SPPU.
- - In the Resource Section, include Previous Year Papers for students.
+ - Include previous year papers in the Resource Section, as well as current tutorials or quizzes from all branches for students.
  - Add a Club Section to show all of the clubs that a student is a member of.
  - Make the app's user interface more appealing, and include a light mode option.
 
