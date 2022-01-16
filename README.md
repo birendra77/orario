@@ -19,7 +19,7 @@ So we used our newly acquired skills in GDSC classes to create an app to solve t
 So the Solution we have come up with is ORARIO!!
 It's an app that has your schedule, all course syllabuses, links to various clubs' instagram/facebook IDs, and Discord accounts, as well as some Fun Time Activities.
 
-<img width="559" alt="Screenshotorario" src="https://drive.google.com/file/d/1g0Gtll_tLapOocpZ1aYiRONP5Vm8kID8/view?usp=sharing">
+<img width="559" alt="Screenshotorario" src="https://i.imgur.com/2yfsSNn.png">
 
 #### Functionality & Concepts used 
 
